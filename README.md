@@ -57,9 +57,8 @@ O processo de preparação envolveu a limpeza de dados nulos, a padronização d
 
 ### 📊 Análise Exploratória
 
-A exploração inicial dos dados já aponta que os colégios federais se destacam no cenário da educação pública[cite: 29]. Para aprofundar a análise, foram utilizados recursos como:
-
-**Histogramas e Boxplots**: Para visualizar e comparar as distribuições de notas entre os diferentes tipos de escola (federal, estadual, municipal e privada.
+A exploração inicial dos dados já aponta que os colégios federais se destacam no cenário da educação pública. Para aprofundar a análise, foram utilizados recursos como:<br>
+**Histogramas e Boxplots**: Para visualizar e comparar as distribuições de notas entre os diferentes tipos de escola (federal, estadual, municipal e privada. <br>
 **Análise Socioeconômica**: Investigação sobre o perfil dos alunos para entender se o contexto socioeconômico é um fator determinante para o alto desempenho.
 
 ---
