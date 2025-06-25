@@ -38,9 +38,9 @@ O projeto busca responder às seguintes questões:
 
 A análise segue a metodologia **CRISP-DM** e está dividida nas seguintes fases:
 
-**Compreensão do Negócio (100%)**: Definição do problema e das hipóteses. <br>
-**Compreensão dos Dados (80%)**: Coleta e exploração inicial dos dados. <br>
-**Preparação dos Dados (85%)**: Limpeza, filtragem e tratamento das bases.
+**Compreensão do Negócio**: Definição do problema e das hipóteses. <br>
+**Compreensão dos Dados**: Coleta e exploração inicial dos dados. <br>
+**Preparação dos Dados**: Limpeza, filtragem e tratamento das bases.
 
 ---
 
